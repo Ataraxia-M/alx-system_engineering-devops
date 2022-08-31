@@ -1,1 +1,1 @@
-Practice on shell basics.
+This repository contains basic shell commands.
